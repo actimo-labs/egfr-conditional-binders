@@ -1,0 +1,6 @@
+out*/
+*.pdb
+*.pka
+*.fasta
+.venv/
+__pycache__/
